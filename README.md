@@ -2,6 +2,10 @@
 
 Natural Language Processing (NLP) aims to develop methods for processing, analyzing and understanding natural language. The goal of this class is to provide a thorough overview of modern methods in the field of Natural Language Processing. 
 
+<p align="center">
+    <img src="https://github.com/AvivYaniv/Natural-Language-Processing/blob/master/logo/NLP.png" width="50%"/>
+<p/>
+
 ## Assignments
 [Assignment 1](https://github.com/AvivYaniv/Natural-Language-Processing/blob/master/nlp-hw1/hw1.pdf) : Word Vectors <br/>
 - Count-Based Word Vectors <br/>
