@@ -23,8 +23,8 @@ Natural Language Processing (NLP) aims to develop methods for processing, analyz
 [Assignment 3](https://github.com/AvivYaniv/Natural-Language-Processing/blob/master/nlp-hw3/nlp-hw3.pdf) : Tagging <br/>
 - Data Preprocessing <br/>
 - Most Frequent Tag Baseline <br/>
-- [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model) Tagger <br/>
-- [Maximum Entropy Markov Model (MEMM)](https://en.wikipedia.org/wiki/Maximum-entropy_Markov_model) Tagger <br/>
+- [Viterbi Algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm) & [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model) Tagger <br/>
+- [Viterbi Algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm) & [Maximum Entropy Markov Model (MEMM)](https://en.wikipedia.org/wiki/Maximum-entropy_Markov_model) Tagger <br/>
 - [BiLSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) Tagger <br/>
 
 
