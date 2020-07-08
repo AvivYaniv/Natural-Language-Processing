@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing.svg)](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing)
 
-# Natural-Language-Processing
+# Natural Language Processing
 
 Natural Language Processing (NLP) aims to develop methods for processing, analyzing and understanding natural language. The goal of this class is to provide a thorough overview of modern methods in the field of Natural Language Processing. 
 
