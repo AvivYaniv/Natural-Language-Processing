@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing.svg)](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Natural-Language-Processing.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing.svg)](http://hits.dwyl.com/AvivYaniv/Natural-Language-Processing) <br/>
 
 # Natural Language Processing
 
